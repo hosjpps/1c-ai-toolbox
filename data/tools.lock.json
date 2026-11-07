@@ -1,0 +1,276 @@
+{
+ "pinned": "2026-11-07",
+ "note": "Коммит default-ветки на дату проверки. Ставить эту версию или новее после просмотра изменений.",
+ "tools": {
+  "1C-Company/ssl-support": {
+   "url": "https://github.com/1C-Company/ssl-support",
+   "commit": "94085f3bf2c9a1c88b2874ca88a5afafaf8ecfa7",
+   "commit_date": "2026-07-16"
+  },
+  "1c-syntax/bsl-language-server": {
+   "url": "https://github.com/1c-syntax/bsl-language-server",
+   "commit": "dd7776da48d38b73c3f54fb3165d7b407ed3780b",
+   "commit_date": "2026-11-07"
+  },
+  "1c-syntax/claude-code-bsl-lsp": {
+   "url": "https://github.com/1c-syntax/claude-code-bsl-lsp",
+   "commit": "210db0b9843871f119cc17fc676e131997b48d0f",
+   "commit_date": "2026-11-04"
+  },
+  "1c-syntax/ssl_3_1": {
+   "url": "https://github.com/1c-syntax/ssl_3_1",
+   "commit": "da8aa1fcef273f6e61bbb7ec9ea3107cac32cabc",
+   "commit_date": "2026-09-23"
+  },
+  "1c-syntax/vsc-language-1c-bsl": {
+   "url": "https://github.com/1c-syntax/vsc-language-1c-bsl",
+   "commit": "9ed084a3a8593ce12b3f7437b86794658825f7bc",
+   "commit_date": "2026-11-05"
+  },
+  "Arman-Kudaibergenov/bsl-atlas": {
+   "url": "https://github.com/Arman-Kudaibergenov/bsl-atlas",
+   "commit": "b605768692ea2e51c3dfb199b788f6f4d2fb6325",
+   "commit_date": "2026-07-26"
+  },
+  "Bayselonarrend/OpenIntegrations": {
+   "url": "https://github.com/Bayselonarrend/OpenIntegrations",
+   "commit": "6a87a405ef86e6647d344b2201df9f17699c627b",
+   "commit_date": "2026-11-02"
+  },
+  "Dach-Coin/rlm-tools-bsl": {
+   "url": "https://github.com/Dach-Coin/rlm-tools-bsl",
+   "commit": "90cc326bd964f1f6f7ff188c19b98cf0006e27e0",
+   "commit_date": "2026-11-02"
+  },
+  "Desko77/claude-code-skills-1c": {
+   "url": "https://github.com/Desko77/claude-code-skills-1c",
+   "commit": "af48dc0c29f1dbe68019a96fce30c2735b036aca",
+   "commit_date": "2026-11-05"
+  },
+  "DigiLabsru/alkir-rahc": {
+   "url": "https://github.com/DigiLabsru/alkir-rahc",
+   "commit": "99ac9e7a55018f08829dab88df8bc9fe4c8ca22c",
+   "commit_date": "2025-07-28"
+  },
+  "DigiLabsru/alkir-web-rac": {
+   "url": "https://github.com/DigiLabsru/alkir-web-rac",
+   "commit": "42b8af55a3ce4ab25e3e642c87c727009d8fecc4",
+   "commit_date": "2025-06-10"
+  },
+  "DitriXNew/EDT-MCP": {
+   "url": "https://github.com/DitriXNew/EDT-MCP",
+   "commit": "fc31d2e6ea876ae86673cd0f95c7594aed02c87f",
+   "commit_date": "2026-11-05"
+  },
+  "EvilBeaver/OneScript": {
+   "url": "https://github.com/EvilBeaver/OneScript",
+   "commit": "2a24aa4ef5bdb28bf21ef38565e171e01302da28",
+   "commit_date": "2026-11-05"
+  },
+  "IngvarConsulting/unica": {
+   "url": "https://github.com/IngvarConsulting/unica",
+   "commit": "93a428149a74f3c3f08b1e42d85c6823cb1e9d53",
+   "commit_date": "2026-11-07"
+  },
+  "LazarenkoA/prometheus_1C_exporter": {
+   "url": "https://github.com/LazarenkoA/prometheus_1C_exporter",
+   "commit": "b9963285179ff4d6fbf3738b430523863931627a",
+   "commit_date": "2026-10-17"
+  },
+  "Nikolay-Shirokov/cc-1c-skills": {
+   "url": "https://github.com/Nikolay-Shirokov/cc-1c-skills",
+   "commit": "2299e17cdbd83957fd08d80a3a6e9ebada8ae12e",
+   "commit_date": "2026-11-07"
+  },
+  "Oxotka/git-flow-edt": {
+   "url": "https://github.com/Oxotka/git-flow-edt",
+   "commit": "8149901a8dd7211d63ba1d296d98e54214911f5c",
+   "commit_date": "2026-10-29"
+  },
+  "Pr-Mex/vanessa-automation": {
+   "url": "https://github.com/Pr-Mex/vanessa-automation",
+   "commit": "15e6ba89f8156bb7d7c68d5b4ecbc9b194099f01",
+   "commit_date": "2026-11-06"
+  },
+  "Regsorm/code-index-mcp": {
+   "url": "https://github.com/Regsorm/code-index-mcp",
+   "commit": "773ac4c85450dad71de8c2cad0f6955a6f5014e1",
+   "commit_date": "2026-10-27"
+  },
+  "SteelMorgan/1c-agent-based-dev-framework": {
+   "url": "https://github.com/SteelMorgan/1c-agent-based-dev-framework",
+   "commit": "8d188b3f1eb6956010acbddc8c2e505319d35ed9",
+   "commit_date": "2026-09-30"
+  },
+  "Untru/1c-mcp": {
+   "url": "https://github.com/Untru/1c-mcp",
+   "commit": "9acce34a157fe1b1c67beadd72fa95b31cfeff28",
+   "commit_date": "2026-11-02"
+  },
+  "Xelgo/edt-extension-tweaks": {
+   "url": "https://github.com/Xelgo/edt-extension-tweaks",
+   "commit": "44d43ba0b30f906aa9698dfffe1789e4a36e7c53",
+   "commit_date": "2026-10-29"
+  },
+  "YanSergey/edt.cf_builder": {
+   "url": "https://github.com/YanSergey/edt.cf_builder",
+   "commit": "15220ec013a9623912976a22cb572081b5a7a494",
+   "commit_date": "2026-09-27"
+  },
+  "andromanpro/1c-ai-connector": {
+   "url": "https://github.com/andromanpro/1c-ai-connector",
+   "commit": "55978cbe2560851f65b67661d20af1d28fd479c1",
+   "commit_date": "2026-11-06"
+  },
+  "astrizhachuk/yaxunit-test-writer": {
+   "url": "https://github.com/astrizhachuk/yaxunit-test-writer",
+   "commit": "b60846fb8f7864846dc2d3b31e2794a0facac947",
+   "commit_date": "2026-10-19"
+  },
+  "bia-technologies/precommit4onec": {
+   "url": "https://github.com/bia-technologies/precommit4onec",
+   "commit": "d3f1efd44bc998e13bd3a3fbbe9c62767d93266f",
+   "commit_date": "2025-12-29"
+  },
+  "bia-technologies/yaxunit": {
+   "url": "https://github.com/bia-technologies/yaxunit",
+   "commit": "a2beee45e81ad1108db3f73aa892fbd7972c2ba6",
+   "commit_date": "2026-11-04"
+  },
+  "brake71/1c-ssl-skills": {
+   "url": "https://github.com/brake71/1c-ssl-skills",
+   "commit": "aa43038b18844e19085df3e63ee08a8e7b94a361",
+   "commit_date": "2026-10-28"
+  },
+  "comol/ai_rules_1c": {
+   "url": "https://github.com/comol/ai_rules_1c",
+   "commit": "6863e850046744c7b992bde4c2a26dbe4e8d5ecd",
+   "commit_date": "2026-11-06"
+  },
+  "cpr1c/tools_ui_1c": {
+   "url": "https://github.com/cpr1c/tools_ui_1c",
+   "commit": "590e1b6efbb5286b5577f7b10810248eb909fe44",
+   "commit_date": "2026-11-04"
+  },
+  "feenlace/mcp-1c": {
+   "url": "https://github.com/feenlace/mcp-1c",
+   "commit": "2cf9aec81c456f13e47caf354244113e4b3221ea",
+   "commit_date": "2026-10-20"
+  },
+  "firstBitMarksistskaya/onec-docker": {
+   "url": "https://github.com/firstBitMarksistskaya/onec-docker",
+   "commit": "3297e7ecd98d58bf5aefebb76b862480f4d3fe75",
+   "commit_date": "2026-06-19"
+  },
+  "infostart-hub/toolkit": {
+   "url": "https://github.com/infostart-hub/toolkit",
+   "commit": "715e5d49c7c533761e2567777f06e9c7d95fa06b",
+   "commit_date": "2026-09-22"
+  },
+  "kuzyara/Awesome-RequestConsoles": {
+   "url": "https://github.com/kuzyara/Awesome-RequestConsoles",
+   "commit": "693954f12a0f0013f7729896fc6a65da90c8b206",
+   "commit_date": "2026-10-19"
+  },
+  "lavelinevgeny/consquery": {
+   "url": "https://github.com/lavelinevgeny/consquery",
+   "commit": "780fe96a69ca80a8e0fc4d2be0b90d6a43c81a09",
+   "commit_date": "2025-05-20"
+  },
+  "marmyshev/edt-editing": {
+   "url": "https://github.com/marmyshev/edt-editing",
+   "commit": "95f955bb663facb0e03ee8cefab5949f9fd5b5e5",
+   "commit_date": "2026-07-11"
+  },
+  "medigor/tech-log-parser": {
+   "url": "https://github.com/medigor/tech-log-parser",
+   "commit": "e258ea75cc521ae6a9c7fe61bf5b3ed655ea1344",
+   "commit_date": "2025-11-25"
+  },
+  "oscript-library/gitsync": {
+   "url": "https://github.com/oscript-library/gitsync",
+   "commit": "dd70547174fad967d534d07dd671a5eda80254d7",
+   "commit_date": "2026-10-25"
+  },
+  "oscript-library/opm": {
+   "url": "https://github.com/oscript-library/opm",
+   "commit": "56defbe78d84406f030009f5c91e2bcf2e069bb5",
+   "commit_date": "2026-09-05"
+  },
+  "pZayash/hbk-to-md": {
+   "url": "https://github.com/pZayash/hbk-to-md",
+   "commit": "ed57e289b6caf5a23b184b8ebb929e5497a9be53",
+   "commit_date": "2026-06-19"
+  },
+  "rdv-team/loga": {
+   "url": "https://github.com/rdv-team/loga",
+   "commit": "a5baa8869ff0ee3d1e3a3025409f37866708e386",
+   "commit_date": "2025-12-12"
+  },
+  "rdv-team/logt": {
+   "url": "https://github.com/rdv-team/logt",
+   "commit": "ee31efec6d4eb86db2cf9f1df50a5a05180ea43a",
+   "commit_date": "2026-03-30"
+  },
+  "saby-integration/v8unpack": {
+   "url": "https://github.com/saby-integration/v8unpack",
+   "commit": "deba8926fab78f67b8c362c010397a38967a2820",
+   "commit_date": "2026-10-23"
+  },
+  "sgtpep/woocommerce-1c": {
+   "url": "https://github.com/sgtpep/woocommerce-1c",
+   "commit": "b7a24322d48bb7c4e7264cf9ab12400b910cd0be",
+   "commit_date": "2025-09-22"
+  },
+  "tormozit/EDT.Comfort": {
+   "url": "https://github.com/tormozit/EDT.Comfort",
+   "commit": "e8a1c0ee5953cbd406d278fb440cbc430cfa08d5",
+   "commit_date": "2026-11-07"
+  },
+  "tormozit/RDT1C": {
+   "url": "https://github.com/tormozit/RDT1C",
+   "commit": "d50dee8285d74fc32ed00f42bd69f1ba3352f203",
+   "commit_date": "2026-09-27"
+  },
+  "vanessa-opensource/vanessa-runner": {
+   "url": "https://github.com/vanessa-opensource/vanessa-runner",
+   "commit": "7b8eda4027e4118a0bc3b782a7818e9aea424f59",
+   "commit_date": "2026-11-05"
+  },
+  "vbondarevsky/1connector": {
+   "url": "https://github.com/vbondarevsky/1connector",
+   "commit": "9dd4410e8c973ec64e4e958888fe233303a7fd78",
+   "commit_date": "2026-11-03"
+  },
+  "vbondarevsky/Connector": {
+   "url": "https://github.com/vbondarevsky/Connector",
+   "commit": "7e37f1f5cdd35aac220af853b20a551d4da88cdd",
+   "commit_date": "2025-05-05"
+  },
+  "yellow-hammer/namespace-forest": {
+   "url": "https://github.com/yellow-hammer/namespace-forest",
+   "commit": "0023896332406bdc163f746daaf91756d26a54bd",
+   "commit_date": "2026-09-30"
+  },
+  "yellow-hammer/prometheus-e1c": {
+   "url": "https://github.com/yellow-hammer/prometheus-e1c",
+   "commit": "72cd27f06c9dd28a527571f48bcce76e9eb21190",
+   "commit_date": "2026-06-18"
+  },
+  "yellow-hammer/vscode-1c-platform-tools": {
+   "url": "https://github.com/yellow-hammer/vscode-1c-platform-tools",
+   "commit": "3bc4c45c389fba11ad61be019346e9c5715e7c30",
+   "commit_date": "2026-11-06"
+  },
+  "zeegin/v8std": {
+   "url": "https://github.com/zeegin/v8std",
+   "commit": "2d4c358fa01f7e8c21af13671fbd68e9d21b65b0",
+   "commit_date": "2026-10-14"
+  },
+  "zerobig/swagger-1c": {
+   "url": "https://github.com/zerobig/swagger-1c",
+   "commit": "54e41bbc9919f27c833d826dddcc6b23d7f63600",
+   "commit_date": "2026-11-01"
+  }
+ }
+}

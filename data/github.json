@@ -1,0 +1,1938 @@
+{
+ "liteappsru/liteExchange": {
+  "arch": false,
+  "fork": false,
+  "full": "liteappsru/liteExchange",
+  "lic": "GPL-3.0",
+  "pushed": "2022-10-17T12:09:00Z",
+  "stars": 115
+ },
+ "Polyplastic/1c-parsing-tech-log": {
+  "arch": false,
+  "fork": false,
+  "full": "Polyplastic/1c-parsing-tech-log",
+  "lic": null,
+  "pushed": "2026-08-13T07:25:35Z",
+  "stars": 334
+ },
+ "Stepa86/perf-measurements-to-cover": {
+  "arch": false,
+  "fork": false,
+  "full": "Stepa86/perf-measurements-to-cover",
+  "lic": "MIT",
+  "pushed": "2020-02-17T11:28:51Z",
+  "stars": 16
+ },
+ "1c-syntax/vsc-language-1c-bsl": {
+  "arch": false,
+  "fork": true,
+  "full": "1c-syntax/vsc-language-1c-bsl",
+  "lic": "MIT",
+  "pushed": "2026-11-05T07:49:57Z",
+  "stars": 196
+ },
+ "ROCTUP/1c-buddy": {
+  "arch": false,
+  "fork": false,
+  "full": "ROCTUP/1c-buddy",
+  "lic": "AGPL-3.0",
+  "pushed": "2026-08-09T19:11:01Z",
+  "stars": 109
+ },
+ "fserg/1c-lsp-mcp-skill": {
+  "arch": false,
+  "fork": false,
+  "full": "fserg/1c-lsp-mcp-skill",
+  "lic": "LGPL-3.0",
+  "pushed": "2026-04-14T22:36:48Z",
+  "stars": 26
+ },
+ "butbik2025/BSL_8.5.1_dev_docs": {
+  "arch": false,
+  "fork": false,
+  "full": "butbik2025/BSL_8.5.1_dev_docs",
+  "lic": null,
+  "pushed": "2026-04-04T12:39:45Z",
+  "stars": 15
+ },
+ "zerobig/swagger-1c": {
+  "arch": false,
+  "fork": false,
+  "full": "zerobig/swagger-1c",
+  "lic": "MIT",
+  "pushed": "2026-11-01T09:04:16Z",
+  "stars": 117
+ },
+ "korolevpavel/xbsl-ai-skills": {
+  "arch": false,
+  "fork": false,
+  "full": "korolevpavel/xbsl-ai-skills",
+  "lic": "MIT",
+  "pushed": "2026-10-16T13:33:38Z",
+  "stars": 45
+ },
+ "1C-Company/ssl-support": {
+  "arch": false,
+  "fork": false,
+  "full": "1C-Company/ssl-support",
+  "lic": "EPL-2.0",
+  "pushed": "2026-09-29T02:18:42Z",
+  "stars": 116
+ },
+ "pZayash/hbk-to-md": {
+  "arch": false,
+  "fork": false,
+  "full": "pZayash/hbk-to-md",
+  "lic": null,
+  "pushed": "2026-06-19T10:49:19Z",
+  "stars": 10
+ },
+ "SeiOkami/SonarBslFileNaming": {
+  "arch": false,
+  "fork": false,
+  "full": "SeiOkami/SonarBslFileNaming",
+  "lic": null,
+  "pushed": "2025-08-26T17:06:12Z",
+  "stars": 58
+ },
+ "rdv-team/loga": {
+  "arch": false,
+  "fork": false,
+  "full": "rdv-team/loga",
+  "lic": "NOASSERTION",
+  "pushed": "2025-12-12T15:20:19Z",
+  "stars": 27
+ },
+ "pulh1/QueryConsole1C": {
+  "arch": false,
+  "fork": false,
+  "full": "pulh1/QueryConsole1C",
+  "lic": "MIT",
+  "pushed": "2026-11-05T13:28:34Z",
+  "stars": 79
+ },
+ "khorevaa/odin": {
+  "arch": false,
+  "fork": false,
+  "full": "khorevaa/odin",
+  "lic": null,
+  "pushed": "2021-09-06T17:46:56Z",
+  "stars": 29
+ },
+ "NuclearAPK/Simple-Kafka_Adapter": {
+  "arch": false,
+  "fork": false,
+  "full": "NuclearAPK/Simple-Kafka_Adapter",
+  "lic": "Apache-2.0",
+  "pushed": "2026-10-29T08:37:47Z",
+  "stars": 147
+ },
+ "WonderMr/Nikita": {
+  "arch": false,
+  "fork": false,
+  "full": "IEZhu/Nikita",
+  "lic": "GPL-3.0",
+  "pushed": "2026-10-19T18:42:38Z",
+  "stars": 8
+ },
+ "bia-technologies/edt_ripper": {
+  "arch": false,
+  "fork": false,
+  "full": "bia-technologies/edt_ripper",
+  "lic": "MIT",
+  "pushed": "2026-10-08T04:49:12Z",
+  "stars": 25
+ },
+ "carono/yii2-1c-exchange": {
+  "arch": false,
+  "fork": false,
+  "full": "carono/yii2-1c-exchange",
+  "lic": null,
+  "pushed": "2023-11-12T21:06:54Z",
+  "stars": 79
+ },
+ "ndSpacehead/1c_http": {
+  "arch": false,
+  "fork": false,
+  "full": "ndSpacehead/1c_http",
+  "lic": "Apache-2.0",
+  "pushed": "2025-05-03T19:05:00Z",
+  "stars": 95
+ },
+ "msrv-tech/skills": {
+  "arch": false,
+  "fork": false,
+  "full": "msrv-tech/skills",
+  "lic": null,
+  "pushed": "2026-10-06T03:48:55Z",
+  "stars": 62
+ },
+ "SteelMorgan/mcp-bsl-lsp-bridge": {
+  "arch": false,
+  "fork": false,
+  "full": "SteelMorgan/mcp-bsl-lsp-bridge",
+  "lic": "Apache-2.0",
+  "pushed": "2026-09-28T16:11:46Z",
+  "stars": 71
+ },
+ "akpaevj/OneSTools.EventLog": {
+  "arch": false,
+  "fork": false,
+  "full": "akpaevj/OneSTools.EventLog",
+  "lic": "MIT",
+  "pushed": "2024-08-19T05:10:13Z",
+  "stars": 173
+ },
+ "hacker-cb/1c-odata": {
+  "arch": false,
+  "fork": false,
+  "full": "hacker-cb/1c-odata",
+  "lic": "MIT",
+  "pushed": "2026-10-16T13:45:54Z",
+  "stars": 5
+ },
+ "SteelMorgan/1c-log-checker": {
+  "arch": false,
+  "fork": false,
+  "full": "SteelMorgan/1c-log-checker",
+  "lic": "NOASSERTION",
+  "pushed": "2026-10-17T11:32:00Z",
+  "stars": 80
+ },
+ "freewms/PDE": {
+  "arch": false,
+  "fork": false,
+  "full": "freewms/PDE",
+  "lic": null,
+  "pushed": "2021-07-23T10:04:56Z",
+  "stars": 128
+ },
+ "MRDK80/v8unpack-agent": {
+  "arch": false,
+  "fork": false,
+  "full": "MRDK80/v8unpack-agent",
+  "lic": "MIT",
+  "pushed": "2026-11-07T19:07:23Z",
+  "stars": 10
+ },
+ "keyfire/edt-bridge": {
+  "arch": false,
+  "fork": false,
+  "full": "keyfire/edt-bridge",
+  "lic": "Apache-2.0",
+  "pushed": "2026-11-07T17:52:15Z",
+  "stars": 30
+ },
+ "oscript-library/packman": {
+  "arch": false,
+  "fork": false,
+  "full": "oscript-library/packman",
+  "lic": "Apache-2.0",
+  "pushed": "2024-01-31T07:59:12Z",
+  "stars": 83
+ },
+ "oscript-library/gitsync-plugins": {
+  "arch": false,
+  "fork": false,
+  "full": "oscript-library/gitsync-plugins",
+  "lic": "MIT",
+  "pushed": "2026-10-25T13:01:33Z",
+  "stars": 44
+ },
+ "chernienkoii/adm1c": {
+  "arch": false,
+  "fork": false,
+  "full": "chernienkoii/adm1c",
+  "lic": null,
+  "pushed": "2022-01-05T13:55:50Z",
+  "stars": 13
+ },
+ "arkuznetsov/yard": {
+  "arch": false,
+  "fork": false,
+  "full": "arkuznetsov/yard",
+  "lic": "MPL-2.0",
+  "pushed": "2026-09-19T11:17:17Z",
+  "stars": 104
+ },
+ "yellow-hammer/mcp-1c-platform-tools": {
+  "arch": false,
+  "fork": false,
+  "full": "yellow-hammer/mcp-1c-platform-tools",
+  "lic": "MIT",
+  "pushed": "2026-11-06T11:59:03Z",
+  "stars": 44
+ },
+ "Untru/ibcmd-rs": {
+  "arch": false,
+  "fork": false,
+  "full": "Untru/ibcmd-rs",
+  "lic": "MIT",
+  "pushed": "2026-11-02T10:20:31Z",
+  "stars": 39
+ },
+ "Romandredan/1c-quality-gate": {
+  "arch": false,
+  "fork": false,
+  "full": "Romandredan/1c-quality-gate",
+  "lic": "NOASSERTION",
+  "pushed": "2026-11-04T14:01:31Z",
+  "stars": 49
+ },
+ "alkoleft/platform-context-exporter": {
+  "arch": false,
+  "fork": false,
+  "full": "alkoleft/platform-context-exporter",
+  "lic": "MIT",
+  "pushed": "2025-07-04T17:18:17Z",
+  "stars": 50
+ },
+ "Oxotka/Landscape1C": {
+  "arch": false,
+  "fork": false,
+  "full": "Oxotka/Landscape1C",
+  "lic": "MIT",
+  "pushed": "2026-10-27T06:03:38Z",
+  "stars": 49
+ },
+ "1c-neurofish/awesome-onec-neurofish": {
+  "arch": false,
+  "fork": false,
+  "full": "1c-neurofish/awesome-onec-neurofish",
+  "lic": null,
+  "pushed": "2026-03-06T09:24:00Z",
+  "stars": 55
+ },
+ "LazarenkoA/prometheus_1C_exporter": {
+  "arch": false,
+  "fork": false,
+  "full": "LazarenkoA/prometheus_1C_exporter",
+  "lic": "MPL-2.0",
+  "pushed": "2026-10-17T11:29:55Z",
+  "stars": 219
+ },
+ "arkuznetsov/irac": {
+  "arch": false,
+  "fork": false,
+  "full": "arkuznetsov/irac",
+  "lic": "MPL-2.0",
+  "pushed": "2026-10-18T07:43:42Z",
+  "stars": 81
+ },
+ "alexandr-yang/yaxunit-smoke": {
+  "arch": false,
+  "fork": false,
+  "full": "alexandr-yang/yaxunit-smoke",
+  "lic": "MPL-2.0",
+  "pushed": "2026-04-14T12:07:28Z",
+  "stars": 20
+ },
+ "tretyakevich/dt-ib-tools": {
+  "arch": false,
+  "fork": false,
+  "full": "tretyakevich/dt-ib-tools",
+  "lic": null,
+  "pushed": "2026-01-31T10:51:37Z",
+  "stars": 8
+ },
+ "alonehobo/1c-trusted-gateway": {
+  "arch": false,
+  "fork": false,
+  "full": "alonehobo/1c-trusted-gateway",
+  "lic": null,
+  "pushed": "2026-09-26T11:53:49Z",
+  "stars": 31
+ },
+ "arkuznetsov/SerLib1C": {
+  "arch": false,
+  "fork": false,
+  "full": "arkuznetsov/SerLib1C",
+  "lic": "MPL-2.0",
+  "pushed": "2026-06-10T08:41:00Z",
+  "stars": 188
+ },
+ "msrv-tech/1c-ai-autofill": {
+  "arch": false,
+  "fork": false,
+  "full": "msrv-tech/1c-ai-autofill",
+  "lic": "MIT",
+  "pushed": "2026-05-29T10:06:56Z",
+  "stars": 24
+ },
+ "BlizD/S3_SSL": {
+  "arch": false,
+  "fork": false,
+  "full": "BlizD/S3_SSL",
+  "lic": "MIT",
+  "pushed": "2025-06-28T08:23:14Z",
+  "stars": 68
+ },
+ "Muredsa/1C-Enterprise-Agent-Toolkit": {
+  "arch": false,
+  "fork": false,
+  "full": "Muredsa/1C-Enterprise-Agent-Toolkit",
+  "lic": "MIT",
+  "pushed": "2026-08-12T05:31:14Z",
+  "stars": 24
+ },
+ "Regsorm/code-index-mcp": {
+  "arch": false,
+  "fork": false,
+  "full": "Regsorm/code-index-mcp",
+  "lic": "MIT",
+  "pushed": "2026-10-27T19:27:47Z",
+  "stars": 161
+ },
+ "sergeyfedyakov/v8help-mcp": {
+  "arch": false,
+  "fork": false,
+  "full": "sergeyfedyakov/v8help-mcp",
+  "lic": "MIT",
+  "pushed": "2026-09-25T20:20:16Z",
+  "stars": 0
+ },
+ "yellow-hammer/md-sparrow": {
+  "arch": false,
+  "fork": false,
+  "full": "yellow-hammer/md-sparrow",
+  "lic": "LGPL-3.0",
+  "pushed": "2026-11-05T15:18:55Z",
+  "stars": 24
+ },
+ "rzateev/1cServiceIntegrationMock": {
+  "arch": false,
+  "fork": false,
+  "full": "rzateev/1cServiceIntegrationMock",
+  "lic": "MIT",
+  "pushed": "2025-08-07T19:47:28Z",
+  "stars": 62
+ },
+ "ROCTUP/1c-testpilot": {
+  "arch": false,
+  "fork": false,
+  "full": "ROCTUP/1c-testpilot",
+  "lic": "AGPL-3.0",
+  "pushed": "2026-10-26T17:51:23Z",
+  "stars": 81
+ },
+ "YanSergey/edt.cf_builder": {
+  "arch": false,
+  "fork": false,
+  "full": "YanSergey/edt.cf_builder",
+  "lic": "EPL-2.0",
+  "pushed": "2026-09-27T09:43:59Z",
+  "stars": 112
+ },
+ "ROCTUP/1c-mcp-toolkit": {
+  "arch": false,
+  "fork": false,
+  "full": "ROCTUP/1c-mcp-toolkit",
+  "lic": "GPL-3.0",
+  "pushed": "2026-11-01T07:20:18Z",
+  "stars": 349
+ },
+ "efinskiy/onec-odata": {
+  "arch": false,
+  "fork": false,
+  "full": "efinskiy/onec-odata",
+  "lic": null,
+  "pushed": "2026-06-17T11:56:34Z",
+  "stars": 12
+ },
+ "timurikvx/rac-worker": {
+  "arch": false,
+  "fork": false,
+  "full": "timurikvx/rac-worker",
+  "lic": null,
+  "pushed": "2025-09-20T11:20:38Z",
+  "stars": 8
+ },
+ "marmyshev/edt_git_sync": {
+  "arch": false,
+  "fork": false,
+  "full": "marmyshev/edt_git_sync",
+  "lic": null,
+  "pushed": "2018-04-18T08:41:03Z",
+  "stars": 18
+ },
+ "alkoleft/hbk-viewer": {
+  "arch": false,
+  "fork": false,
+  "full": "alkoleft/hbk-viewer",
+  "lic": "MIT",
+  "pushed": "2026-01-29T12:17:24Z",
+  "stars": 36
+ },
+ "anymasoft/1c-optimyzer": {
+  "arch": false,
+  "fork": false,
+  "full": "anymasoft/1c-optimyzer",
+  "lic": "NOASSERTION",
+  "pushed": "2026-08-10T13:30:55Z",
+  "stars": 3
+ },
+ "SalavatovNabiulla/GigaChat_SDK_1C": {
+  "arch": false,
+  "fork": false,
+  "full": "SalavatovNabiulla/GigaChat_SDK_1C",
+  "lic": null,
+  "pushed": "2024-09-26T20:18:18Z",
+  "stars": 20
+ },
+ "Arman-Kudaibergenov/1c-ai-development-kit": {
+  "arch": false,
+  "fork": false,
+  "full": "Arman-Kudaibergenov/1c-ai-development-kit",
+  "lic": "AGPL-3.0",
+  "pushed": "2026-05-25T16:31:25Z",
+  "stars": 169
+ },
+ "1C-Company/GitConverter": {
+  "arch": false,
+  "fork": false,
+  "full": "1C-Company/GitConverter",
+  "lic": "CC-BY-SA-4.0",
+  "pushed": "2025-02-05T03:10:15Z",
+  "stars": 282
+ },
+ "tormozit/RDT1C": {
+  "arch": false,
+  "fork": false,
+  "full": "tormozit/RDT1C",
+  "lic": null,
+  "pushed": "2026-11-06T20:58:18Z",
+  "stars": 215
+ },
+ "1c-syntax/ssl_3_1": {
+  "arch": false,
+  "fork": false,
+  "full": "1c-syntax/ssl_3_1",
+  "lic": "CC-BY-4.0",
+  "pushed": "2026-09-24T16:02:53Z",
+  "stars": 104
+ },
+ "sergeyfedyakov/v8unpack-mcp": {
+  "arch": false,
+  "fork": false,
+  "full": "sergeyfedyakov/v8unpack-mcp",
+  "lic": "MIT",
+  "pushed": "2026-09-19T20:10:25Z",
+  "stars": 8
+ },
+ "yellow-hammer/prometheus": {
+  "arch": false,
+  "fork": false,
+  "full": "yellow-hammer/prometheus",
+  "lic": "MIT",
+  "pushed": "2026-09-29T14:22:17Z",
+  "stars": 12
+ },
+ "Arman-Kudaibergenov/bsl-atlas": {
+  "arch": false,
+  "fork": false,
+  "full": "Arman-Kudaibergenov/bsl-atlas",
+  "lic": "AGPL-3.0",
+  "pushed": "2026-07-26T21:10:47Z",
+  "stars": 79
+ },
+ "kilylabs/odata-1c": {
+  "arch": false,
+  "fork": false,
+  "full": "kilylabs/odata-1c",
+  "lic": "MIT",
+  "pushed": "2022-01-20T11:25:58Z",
+  "stars": 77
+ },
+ "rdv-team/logt": {
+  "arch": false,
+  "fork": false,
+  "full": "rdv-team/logt",
+  "lic": "NOASSERTION",
+  "pushed": "2026-03-30T12:01:54Z",
+  "stars": 45
+ },
+ "1c-neurofish/onec-client-mcp-devkit": {
+  "arch": false,
+  "fork": false,
+  "full": "1c-neurofish/onec-client-mcp-devkit",
+  "lic": "LGPL-3.0",
+  "pushed": "2026-10-05T21:00:40Z",
+  "stars": 70
+ },
+ "vladimir-kharin/llm_1c_benckmark": {
+  "arch": false,
+  "fork": false,
+  "full": "vladimir-kharin/llm_1c_benckmark",
+  "lic": null,
+  "pushed": "2025-05-16T14:30:56Z",
+  "stars": 29
+ },
+ "Regsorm/bsl-context": {
+  "arch": false,
+  "fork": false,
+  "full": "Regsorm/bsl-context",
+  "lic": "NOASSERTION",
+  "pushed": "2026-10-23T20:25:50Z",
+  "stars": 33
+ },
+ "agibalovsa/-1C_CICD": {
+  "arch": false,
+  "fork": false,
+  "full": "agibalovsa/-1C_CICD",
+  "lic": "LGPL-3.0",
+  "pushed": "2026-08-24T12:06:23Z",
+  "stars": 56
+ },
+ "v8platform/ras-grpc-gw": {
+  "arch": false,
+  "fork": false,
+  "full": "v8platform/ras-grpc-gw",
+  "lic": "MIT",
+  "pushed": "2021-12-30T20:45:57Z",
+  "stars": 4
+ },
+ "IngvarConsulting/unica": {
+  "arch": false,
+  "fork": false,
+  "full": "IngvarConsulting/unica",
+  "lic": "NOASSERTION",
+  "pushed": "2026-11-07T17:38:46Z",
+  "stars": 247
+ },
+ "alexiosus/mxl-merge-tool": {
+  "arch": false,
+  "fork": false,
+  "full": "alexiosus/mxl-merge-tool",
+  "lic": "MIT",
+  "pushed": "2026-09-12T21:17:57Z",
+  "stars": 10
+ },
+ "BITERP/PinkRabbitMQ": {
+  "arch": false,
+  "fork": false,
+  "full": "BITERP/PinkRabbitMQ",
+  "lic": "MIT",
+  "pushed": "2026-09-11T13:46:47Z",
+  "stars": 301
+ },
+ "SMLTTECH/agentrunner": {
+  "arch": false,
+  "fork": true,
+  "full": "SMLTTECH/agentrunner",
+  "lic": "NOASSERTION",
+  "pushed": "2026-11-06T15:31:27Z",
+  "stars": 2
+ },
+ "Antonio1C/1c-syntax-helper-mcp": {
+  "arch": false,
+  "fork": false,
+  "full": "Antonio1C/1c-syntax-helper-mcp",
+  "lic": null,
+  "pushed": "2026-10-12T18:13:44Z",
+  "stars": 75
+ },
+ "alkoleft/mcp-bsl-platform-context": {
+  "arch": false,
+  "fork": false,
+  "full": "alkoleft/mcp-bsl-platform-context",
+  "lic": "MIT",
+  "pushed": "2026-03-10T23:43:22Z",
+  "stars": 207
+ },
+ "LazarenkoA/1c-language-parser": {
+  "arch": false,
+  "fork": false,
+  "full": "LazarenkoA/1c-language-parser",
+  "lic": "MIT",
+  "pushed": "2025-10-13T11:01:35Z",
+  "stars": 40
+ },
+ "1CDevFlow/onec-setup-action": {
+  "arch": false,
+  "fork": false,
+  "full": "1CDevFlow/onec-setup-action",
+  "lic": "MIT",
+  "pushed": "2026-10-28T20:28:25Z",
+  "stars": 14
+ },
+ "Jimmo910/edt-fast-button": {
+  "arch": false,
+  "fork": false,
+  "full": "Jimmo910/edt-fast-button",
+  "lic": "EPL-2.0",
+  "pushed": "2026-10-19T10:04:38Z",
+  "stars": 4
+ },
+ "Jimmo910/edt-sonarq-plugin": {
+  "arch": false,
+  "fork": false,
+  "full": "Jimmo910/edt-sonarq-plugin",
+  "lic": "EPL-2.0",
+  "pushed": "2026-08-08T08:56:56Z",
+  "stars": 11
+ },
+ "architerm/v8std-standards-harness": {
+  "arch": false,
+  "fork": false,
+  "full": "architerm/v8std-standards-harness",
+  "lic": "NOASSERTION",
+  "pushed": "2026-08-01T19:16:39Z",
+  "stars": 11
+ },
+ "astrizhachuk/yaxunit-test-writer": {
+  "arch": false,
+  "fork": false,
+  "full": "astrizhachuk/yaxunit-test-writer",
+  "lic": "MIT",
+  "pushed": "2026-10-19T16:06:30Z",
+  "stars": 24
+ },
+ "mussolene/1c_hbk_bsl": {
+  "arch": false,
+  "fork": false,
+  "full": "mussolene/1c_hbk_bsl",
+  "lic": "MIT",
+  "pushed": "2026-11-02T08:21:37Z",
+  "stars": 13
+ },
+ "Caponid/1c-form-tools": {
+  "arch": false,
+  "fork": false,
+  "full": "Caponid/1c-form-tools",
+  "lic": "MIT",
+  "pushed": "2026-07-03T09:59:32Z",
+  "stars": 19
+ },
+ "zeegin/v8std": {
+  "arch": false,
+  "fork": false,
+  "full": "zeegin/v8std",
+  "lic": "NOASSERTION",
+  "pushed": "2026-10-14T21:53:04Z",
+  "stars": 150
+ },
+ "marmyshev/indent-guide": {
+  "arch": false,
+  "fork": true,
+  "full": "marmyshev/indent-guide",
+  "lic": "MIT",
+  "pushed": "2024-02-07T06:20:32Z",
+  "stars": 9
+ },
+ "Xelgo/edt-extension-tweaks": {
+  "arch": false,
+  "fork": false,
+  "full": "Xelgo/edt-extension-tweaks",
+  "lic": "EPL-2.0",
+  "pushed": "2026-10-29T11:55:24Z",
+  "stars": 68
+ },
+ "ondysss/codepilot1c-edt": {
+  "arch": false,
+  "fork": false,
+  "full": "ondysss/codepilot1c-edt",
+  "lic": "AGPL-3.0",
+  "pushed": "2026-10-19T04:07:42Z",
+  "stars": 159
+ },
+ "alkoleft/v8-runner-rust": {
+  "arch": false,
+  "fork": false,
+  "full": "alkoleft/v8-runner-rust",
+  "lic": "AGPL-3.0",
+  "pushed": "2026-08-03T00:34:57Z",
+  "stars": 65
+ },
+ "arkuznetsov/cpdb": {
+  "arch": false,
+  "fork": false,
+  "full": "arkuznetsov/cpdb",
+  "lic": "MPL-2.0",
+  "pushed": "2025-06-02T09:38:56Z",
+  "stars": 102
+ },
+ "alex-bob-lip/ibcmdrunner": {
+  "arch": false,
+  "fork": false,
+  "full": "alex-bob-lip/ibcmdrunner",
+  "lic": "MPL-2.0",
+  "pushed": "2025-01-05T22:13:03Z",
+  "stars": 40
+ },
+ "1c-syntax/mdclasses": {
+  "arch": false,
+  "fork": false,
+  "full": "1c-syntax/mdclasses",
+  "lic": "LGPL-3.0",
+  "pushed": "2026-10-26T21:33:11Z",
+  "stars": 67
+ },
+ "evilbruce666/1c-odata-mcp": {
+  "arch": false,
+  "fork": false,
+  "full": "evilbruce666/1c-odata-mcp",
+  "lic": "MIT",
+  "pushed": "2026-11-07T12:15:47Z",
+  "stars": 43
+ },
+ "ShadobaAI/kafka-adapter": {
+  "arch": false,
+  "fork": false,
+  "full": "ShadobaAI/kafka-adapter",
+  "lic": "NOASSERTION",
+  "pushed": "2026-11-06T17:34:34Z",
+  "stars": 43
+ },
+ "oscript-library/v8runner": {
+  "arch": false,
+  "fork": false,
+  "full": "oscript-library/v8runner",
+  "lic": null,
+  "pushed": "2026-07-30T07:42:19Z",
+  "stars": 136
+ },
+ "iMironRU/1c-reading-queries": {
+  "arch": false,
+  "fork": false,
+  "full": "iMironRU/1c-reading-queries",
+  "lic": null,
+  "pushed": "2026-09-17T11:42:59Z",
+  "stars": 5
+ },
+ "nexus3a/monitor-remote-agent": {
+  "arch": false,
+  "fork": false,
+  "full": "nexus3a/monitor-remote-agent",
+  "lic": "Apache-2.0",
+  "pushed": "2026-07-23T23:44:31Z",
+  "stars": 8
+ },
+ "Untru/1c-mcp": {
+  "arch": false,
+  "fork": false,
+  "full": "Untru/1c-mcp",
+  "lic": null,
+  "pushed": "2026-11-02T14:54:18Z",
+  "stars": 232
+ },
+ "YanSergey/OneS_ClusterAdmin": {
+  "arch": false,
+  "fork": false,
+  "full": "YanSergey/OneS_ClusterAdmin",
+  "lic": "GPL-3.0",
+  "pushed": "2026-09-07T05:46:26Z",
+  "stars": 88
+ },
+ "AlexGroovy/http-services-cfe": {
+  "arch": false,
+  "fork": false,
+  "full": "AlexGroovy/http-services-cfe",
+  "lic": "MPL-2.0",
+  "pushed": "2026-08-21T11:23:35Z",
+  "stars": 16
+ },
+ "bigperson/exchange1c": {
+  "arch": false,
+  "fork": false,
+  "full": "bigperson/exchange1c",
+  "lic": "MIT",
+  "pushed": "2022-07-21T10:53:46Z",
+  "stars": 39
+ },
+ "Doumor/metr1c": {
+  "arch": false,
+  "fork": false,
+  "full": "Doumor/metr1c",
+  "lic": "GPL-3.0",
+  "pushed": "2026-10-08T16:35:53Z",
+  "stars": 2
+ },
+ "Dach-Coin/perform_comparison_1c_rag_mcp": {
+  "arch": false,
+  "fork": false,
+  "full": "Dach-Coin/perform_comparison_1c_rag_mcp",
+  "lic": "MIT",
+  "pushed": "2026-06-07T11:40:53Z",
+  "stars": 29
+ },
+ "kuzyara/Awesome-RequestConsoles": {
+  "arch": false,
+  "fork": false,
+  "full": "kuzyara/Awesome-RequestConsoles",
+  "lic": null,
+  "pushed": "2026-10-19T09:18:17Z",
+  "stars": 50
+ },
+ "vandalsvq/edt1c-ai-template": {
+  "arch": false,
+  "fork": false,
+  "full": "vandalsvq/edt1c-ai-template",
+  "lic": null,
+  "pushed": "2026-10-29T13:16:32Z",
+  "stars": 23
+ },
+ "yellow-hammer/skills-yaxunit": {
+  "arch": false,
+  "fork": false,
+  "full": "yellow-hammer/skills-yaxunit",
+  "lic": "MIT",
+  "pushed": "2026-10-06T10:26:08Z",
+  "stars": 8
+ },
+ "Dach-Coin/rlm-tools-bsl": {
+  "arch": false,
+  "fork": false,
+  "full": "Dach-Coin/rlm-tools-bsl",
+  "lic": "MIT",
+  "pushed": "2026-11-02T09:40:06Z",
+  "stars": 227
+ },
+ "Pr-Mex/vanessa-automation": {
+  "arch": false,
+  "fork": false,
+  "full": "Pr-Mex/vanessa-automation",
+  "lic": "BSD-3-Clause",
+  "pushed": "2026-11-06T10:58:37Z",
+  "stars": 736
+ },
+ "zeegin/1c-agent-exam-benchmark": {
+  "arch": false,
+  "fork": false,
+  "full": "zeegin/1c-agent-exam-benchmark",
+  "lic": null,
+  "pushed": "2026-10-29T00:34:17Z",
+  "stars": 12
+ },
+ "brake71/1c-ssl-skills": {
+  "arch": false,
+  "fork": false,
+  "full": "brake71/1c-ssl-skills",
+  "lic": "MIT",
+  "pushed": "2026-10-28T12:33:08Z",
+  "stars": 85
+ },
+ "pravets/onec-cfg2md": {
+  "arch": false,
+  "fork": false,
+  "full": "pravets/onec-cfg2md",
+  "lic": "MIT",
+  "pushed": "2025-10-17T22:31:14Z",
+  "stars": 38
+ },
+ "slothfk/1c_zabbix_template_ce": {
+  "arch": false,
+  "fork": false,
+  "full": "slothfk/1c_zabbix_template_ce",
+  "lic": "MIT",
+  "pushed": "2025-02-10T11:30:10Z",
+  "stars": 212
+ },
+ "pavel-aparin/edt-favorites": {
+  "arch": false,
+  "fork": false,
+  "full": "pavel-aparin/edt-favorites",
+  "lic": null,
+  "pushed": "2026-09-02T19:19:53Z",
+  "stars": 10
+ },
+ "SolovievHub/1c-standards-claude-skill": {
+  "arch": false,
+  "fork": false,
+  "full": "SolovievHub/1c-standards-claude-skill",
+  "lic": null,
+  "pushed": "2026-04-24T11:38:10Z",
+  "stars": 20
+ },
+ "andromanpro/onec-yaxunit-ci-template": {
+  "arch": false,
+  "fork": false,
+  "full": "andromanpro/onec-yaxunit-ci-template",
+  "lic": "MIT",
+  "pushed": "2026-06-01T10:51:11Z",
+  "stars": 0
+ },
+ "Oxotka/StackTechnologies1C": {
+  "arch": false,
+  "fork": false,
+  "full": "Oxotka/StackTechnologies1C",
+  "lic": "MIT",
+  "pushed": "2026-10-19T10:45:17Z",
+  "stars": 464
+ },
+ "burlakovmb/AIAgentSkillsFor1CEDT": {
+  "arch": false,
+  "fork": false,
+  "full": "burlakovmb/AIAgentSkillsFor1CEDT",
+  "lic": "NOASSERTION",
+  "pushed": "2026-10-03T15:02:20Z",
+  "stars": 9
+ },
+ "1c-syntax/sonar-bsl-plugin-community": {
+  "arch": false,
+  "fork": false,
+  "full": "1c-syntax/sonar-bsl-plugin-community",
+  "lic": "LGPL-3.0",
+  "pushed": "2026-08-27T02:02:52Z",
+  "stars": 266
+ },
+ "rsyuzyov/bsl-mcp": {
+  "arch": false,
+  "fork": false,
+  "full": "rsyuzyov/bsl-mcp",
+  "lic": "MIT",
+  "pushed": "2026-10-12T08:09:27Z",
+  "stars": 11
+ },
+ "1C-Migration-Lab/1c-analyzer-wiki-rag": {
+  "arch": false,
+  "fork": false,
+  "full": "1C-Migration-Lab/1c-analyzer-wiki-rag",
+  "lic": "MIT",
+  "pushed": "2025-01-12T15:32:16Z",
+  "stars": 42
+ },
+ "pravets/onec-images": {
+  "arch": false,
+  "fork": false,
+  "full": "pravets/onec-images",
+  "lic": "MIT",
+  "pushed": "2026-10-27T13:55:12Z",
+  "stars": 78
+ },
+ "ROCTUP/1c-mcp-metacode": {
+  "arch": false,
+  "fork": false,
+  "full": "ROCTUP/1c-mcp-metacode",
+  "lic": "AGPL-3.0",
+  "pushed": "2026-08-19T01:09:39Z",
+  "stars": 111
+ },
+ "vanessa-opensource/add": {
+  "arch": false,
+  "fork": false,
+  "full": "vanessa-opensource/add",
+  "lic": "MPL-2.0",
+  "pushed": "2024-12-20T08:36:59Z",
+  "stars": 383
+ },
+ "1c-syntax/bsl-context": {
+  "arch": false,
+  "fork": false,
+  "full": "1c-syntax/bsl-context",
+  "lic": "LGPL-3.0",
+  "pushed": "2026-10-12T10:50:44Z",
+  "stars": 8
+ },
+ "EvilBeaver/OneScript": {
+  "arch": false,
+  "fork": false,
+  "full": "EvilBeaver/OneScript",
+  "lic": "MPL-2.0",
+  "pushed": "2026-11-05T08:28:30Z",
+  "stars": 589
+ },
+ "firstBitMarksistskaya/jenkins-lib": {
+  "arch": false,
+  "fork": false,
+  "full": "firstBitMarksistskaya/jenkins-lib",
+  "lic": "MIT",
+  "pushed": "2026-11-02T21:43:26Z",
+  "stars": 215
+ },
+ "Nikolay-Shirokov/cc-1c-skills": {
+  "arch": false,
+  "fork": false,
+  "full": "Nikolay-Shirokov/cc-1c-skills",
+  "lic": "MIT",
+  "pushed": "2026-11-07T15:50:29Z",
+  "stars": 765
+ },
+ "execut/yii2-1c-odata": {
+  "arch": false,
+  "fork": false,
+  "full": "execut/yii2-1c-odata",
+  "lic": "Apache-2.0",
+  "pushed": "2021-07-15T03:59:12Z",
+  "stars": 10
+ },
+ "zeerayne/1cv8-mgmt-tool": {
+  "arch": false,
+  "fork": false,
+  "full": "zeerayne/1cv8-mgmt-tool",
+  "lic": null,
+  "pushed": "2026-10-21T11:53:03Z",
+  "stars": 32
+ },
+ "comol/ai_rules_1c": {
+  "arch": false,
+  "fork": false,
+  "full": "comol/ai_rules_1c",
+  "lic": null,
+  "pushed": "2026-11-06T20:33:41Z",
+  "stars": 533
+ },
+ "rdv-team/mi": {
+  "arch": false,
+  "fork": false,
+  "full": "rdv-team/mi",
+  "lic": "NOASSERTION",
+  "pushed": "2026-09-22T19:10:31Z",
+  "stars": 63
+ },
+ "vanessa-opensource/vanessa-runner": {
+  "arch": false,
+  "fork": false,
+  "full": "vanessa-opensource/vanessa-runner",
+  "lic": "MPL-2.0",
+  "pushed": "2026-11-05T11:11:57Z",
+  "stars": 282
+ },
+ "1C-Company/v8-code-style": {
+  "arch": false,
+  "fork": false,
+  "full": "1C-Company/v8-code-style",
+  "lic": "EPL-2.0",
+  "pushed": "2026-11-05T15:14:07Z",
+  "stars": 243
+ },
+ "Infactum/onec_dtools": {
+  "arch": true,
+  "fork": false,
+  "full": "Infactum/onec_dtools",
+  "lic": "MIT",
+  "pushed": "2018-09-15T09:54:45Z",
+  "stars": 107
+ },
+ "lavelinevgeny/consquery": {
+  "arch": false,
+  "fork": false,
+  "full": "lavelinevgeny/consquery",
+  "lic": "NOASSERTION",
+  "pushed": "2025-05-25T05:53:32Z",
+  "stars": 41
+ },
+ "1c-syntax/claude-code-bsl-lsp": {
+  "arch": false,
+  "fork": false,
+  "full": "1c-syntax/claude-code-bsl-lsp",
+  "lic": "MIT",
+  "pushed": "2026-11-04T09:58:05Z",
+  "stars": 37
+ },
+ "grumagargler/tester": {
+  "arch": false,
+  "fork": false,
+  "full": "grumagargler/tester",
+  "lic": "BSD-2-Clause",
+  "pushed": "2026-09-20T23:25:35Z",
+  "stars": 208
+ },
+ "pravets/ai-review-ones-quickstart": {
+  "arch": false,
+  "fork": false,
+  "full": "pravets/ai-review-ones-quickstart",
+  "lic": "Unlicense",
+  "pushed": "2026-04-23T07:46:03Z",
+  "stars": 13
+ },
+ "i-simonov/1c-exchange-pipeline": {
+  "arch": false,
+  "fork": false,
+  "full": "i-simonov/1c-exchange-pipeline",
+  "lic": "MIT",
+  "pushed": "2026-10-20T13:19:34Z",
+  "stars": 14
+ },
+ "yellow-hammer/vanessa-bootstrap": {
+  "arch": false,
+  "fork": false,
+  "full": "yellow-hammer/vanessa-bootstrap",
+  "lic": "NOASSERTION",
+  "pushed": "2026-06-15T14:15:26Z",
+  "stars": 21
+ },
+ "prepod2003/mcp-rsv-data": {
+  "arch": false,
+  "fork": false,
+  "full": "prepod2003/mcp-rsv-data",
+  "lic": "MIT",
+  "pushed": "2026-09-07T14:46:42Z",
+  "stars": 68
+ },
+ "yellow-hammer/vscode-1c-platform-tools": {
+  "arch": false,
+  "fork": false,
+  "full": "yellow-hammer/vscode-1c-platform-tools",
+  "lic": "MIT",
+  "pushed": "2026-11-06T12:04:31Z",
+  "stars": 240
+ },
+ "alkoleft/mcp-onec-test-runner": {
+  "arch": false,
+  "fork": false,
+  "full": "alkoleft/mcp-onec-test-runner",
+  "lic": "GPL-3.0",
+  "pushed": "2026-03-22T21:40:47Z",
+  "stars": 122
+ },
+ "Infactum/onec_dock": {
+  "arch": true,
+  "fork": false,
+  "full": "Infactum/onec_dock",
+  "lic": "MIT",
+  "pushed": "2019-02-08T08:17:44Z",
+  "stars": 82
+ },
+ "arkuznetsov/hirac": {
+  "arch": false,
+  "fork": false,
+  "full": "arkuznetsov/hirac",
+  "lic": "MPL-2.0",
+  "pushed": "2022-12-19T06:23:34Z",
+  "stars": 55
+ },
+ "AndreevED/1c-ai-feature-dev-workflow": {
+  "arch": false,
+  "fork": false,
+  "full": "AndreevED/1c-ai-feature-dev-workflow",
+  "lic": "MIT",
+  "pushed": "2026-03-08T13:43:54Z",
+  "stars": 157
+ },
+ "yellow-hammer/skills-vanessa-automation": {
+  "arch": false,
+  "fork": false,
+  "full": "yellow-hammer/skills-vanessa-automation",
+  "lic": "MIT",
+  "pushed": "2026-10-06T10:25:52Z",
+  "stars": 8
+ },
+ "vgtitov/bsl-ai-toolkit": {
+  "arch": false,
+  "fork": false,
+  "full": "vgtitov/bsl-ai-toolkit",
+  "lic": "MIT",
+  "pushed": "2026-11-06T07:54:50Z",
+  "stars": 34
+ },
+ "andromanpro/1c-ai-connector": {
+  "arch": false,
+  "fork": false,
+  "full": "andromanpro/1c-ai-connector",
+  "lic": "MIT",
+  "pushed": "2026-11-06T18:09:43Z",
+  "stars": 108
+ },
+ "genlab-1c/prism": {
+  "arch": false,
+  "fork": false,
+  "full": "genlab-1c/prism",
+  "lic": "MIT",
+  "pushed": "2026-10-29T23:52:31Z",
+  "stars": 57
+ },
+ "kovalexey/rdt1cedtplugin": {
+  "arch": false,
+  "fork": false,
+  "full": "KovAlexey/RDT1CEDTPlugin",
+  "lic": null,
+  "pushed": "2026-07-06T00:14:53Z",
+  "stars": 7
+ },
+ "alkoleft/tree-sitter-bsl": {
+  "arch": false,
+  "fork": false,
+  "full": "alkoleft/tree-sitter-bsl",
+  "lic": "MIT",
+  "pushed": "2026-11-03T20:49:45Z",
+  "stars": 52
+ },
+ "arkuznetsov/1CFilesConverter": {
+  "arch": false,
+  "fork": false,
+  "full": "arkuznetsov/1CFilesConverter",
+  "lic": "MPL-2.0",
+  "pushed": "2025-03-05T12:50:49Z",
+  "stars": 165
+ },
+ "cpr1c/tools_ui_1c": {
+  "arch": false,
+  "fork": false,
+  "full": "cpr1c/tools_ui_1c",
+  "lic": "GPL-3.0",
+  "pushed": "2026-11-05T12:43:45Z",
+  "stars": 1151
+ },
+ "RooLee10/1c-web-session": {
+  "arch": false,
+  "fork": false,
+  "full": "RooLee10/1c-web-session",
+  "lic": null,
+  "pushed": "2026-02-19T21:02:25Z",
+  "stars": 33
+ },
+ "otymko/acc-export": {
+  "arch": false,
+  "fork": false,
+  "full": "otymko/acc-export",
+  "lic": "MIT",
+  "pushed": "2024-03-26T22:24:41Z",
+  "stars": 99
+ },
+ "oscript-library/deployka": {
+  "arch": false,
+  "fork": false,
+  "full": "oscript-library/deployka",
+  "lic": "MPL-2.0",
+  "pushed": "2026-01-23T08:00:44Z",
+  "stars": 102
+ },
+ "bia-technologies/yaxunit": {
+  "arch": false,
+  "fork": false,
+  "full": "bia-technologies/yaxunit",
+  "lic": "Apache-2.0",
+  "pushed": "2026-11-04T17:27:47Z",
+  "stars": 344
+ },
+ "voskorbin/1c-ai-assistant": {
+  "arch": false,
+  "fork": false,
+  "full": "voskorbin/1c-ai-assistant",
+  "lic": "MIT",
+  "pushed": "2026-07-21T15:19:29Z",
+  "stars": 5
+ },
+ "marmyshev/edt-editing": {
+  "arch": false,
+  "fork": false,
+  "full": "marmyshev/edt-editing",
+  "lic": "EPL-2.0",
+  "pushed": "2026-07-11T20:31:00Z",
+  "stars": 52
+ },
+ "goto-linux-1c/PostgresPlanShow1C": {
+  "arch": false,
+  "fork": false,
+  "full": "goto-linux-1c/PostgresPlanShow1C",
+  "lic": null,
+  "pushed": "2026-05-20T18:39:43Z",
+  "stars": 4
+ },
+ "1c-syntax/bsl-parser": {
+  "arch": false,
+  "fork": false,
+  "full": "1c-syntax/bsl-parser",
+  "lic": "GPL-3.0",
+  "pushed": "2026-11-04T13:42:23Z",
+  "stars": 64
+ },
+ "rarus/safe-rest-api-1c": {
+  "arch": false,
+  "fork": false,
+  "full": "rarus/safe-rest-api-1c",
+  "lic": "CC-BY-SA-4.0",
+  "pushed": "2026-10-26T16:18:06Z",
+  "stars": 31
+ },
+ "oscript-library/ovm": {
+  "arch": false,
+  "fork": true,
+  "full": "oscript-library/ovm",
+  "lic": "BSD-3-Clause",
+  "pushed": "2026-09-02T22:29:47Z",
+  "stars": 36
+ },
+ "Desko77/claude-code-skills-1c": {
+  "arch": false,
+  "fork": false,
+  "full": "Desko77/claude-code-skills-1c",
+  "lic": "MIT",
+  "pushed": "2026-11-05T04:42:57Z",
+  "stars": 91
+ },
+ "alkoleft/amusement-park-vibe": {
+  "arch": false,
+  "fork": false,
+  "full": "alkoleft/amusement-park-vibe",
+  "lic": "CC-BY-SA-4.0",
+  "pushed": "2025-09-23T21:13:15Z",
+  "stars": 38
+ },
+ "medigor/tech-log-parser": {
+  "arch": false,
+  "fork": false,
+  "full": "medigor/tech-log-parser",
+  "lic": "MIT",
+  "pushed": "2025-11-25T20:13:07Z",
+  "stars": 14
+ },
+ "infostart-hub/toolkit": {
+  "arch": false,
+  "fork": false,
+  "full": "infostart-hub/toolkit",
+  "lic": null,
+  "pushed": "2026-11-02T08:50:00Z",
+  "stars": 113
+ },
+ "tormozit/EDT.Comfort": {
+  "arch": false,
+  "fork": false,
+  "full": "tormozit/EDT.Comfort",
+  "lic": "MIT",
+  "pushed": "2026-11-07T19:04:43Z",
+  "stars": 59
+ },
+ "alonehobo/ai-assistant-1c": {
+  "arch": false,
+  "fork": false,
+  "full": "alonehobo/ai-assistant-1c",
+  "lic": "MIT",
+  "pushed": "2026-10-16T13:52:01Z",
+  "stars": 31
+ },
+ "saby-integration/v8unpack": {
+  "arch": false,
+  "fork": false,
+  "full": "saby-integration/v8unpack",
+  "lic": "MIT",
+  "pushed": "2026-10-23T08:26:07Z",
+  "stars": 116
+ },
+ "sgtpep/woocommerce-1c": {
+  "arch": false,
+  "fork": false,
+  "full": "sgtpep/woocommerce-1c",
+  "lic": "GPL-3.0",
+  "pushed": "2025-09-22T13:26:41Z",
+  "stars": 70
+ },
+ "VVi3ard/bsp-docs-mcp": {
+  "arch": false,
+  "fork": false,
+  "full": "VVi3ard/bsp-docs-mcp",
+  "lic": null,
+  "pushed": "2026-06-20T01:59:16Z",
+  "stars": 3
+ },
+ "fserg/mcp-1c-v1": {
+  "arch": false,
+  "fork": false,
+  "full": "fserg/mcp-1c-v1",
+  "lic": "MIT",
+  "pushed": "2025-08-04T03:33:10Z",
+  "stars": 169
+ },
+ "yellow-hammer/namespace-forest": {
+  "arch": false,
+  "fork": false,
+  "full": "yellow-hammer/namespace-forest",
+  "lic": "NOASSERTION",
+  "pushed": "2026-09-30T13:27:44Z",
+  "stars": 16
+ },
+ "bigsofter/tiny1C": {
+  "arch": false,
+  "fork": false,
+  "full": "bigsofter/tiny1C",
+  "lic": "MIT",
+  "pushed": "2026-10-29T15:23:03Z",
+  "stars": 2
+ },
+ "MonotoringTA/logtj_1c_ClickHouse": {
+  "arch": false,
+  "fork": true,
+  "full": "MonotoringTA/logtj_1c_ClickHouse",
+  "lic": "NOASSERTION",
+  "pushed": "2026-01-01T15:12:26Z",
+  "stars": 0
+ },
+ "Stepa86/stebi": {
+  "arch": false,
+  "fork": false,
+  "full": "Stepa86/stebi",
+  "lic": "MIT",
+  "pushed": "2025-11-30T10:55:11Z",
+  "stars": 44
+ },
+ "Bayselonarrend/OpenIntegrations": {
+  "arch": false,
+  "fork": false,
+  "full": "Bayselonarrend/OpenIntegrations",
+  "lic": "MIT",
+  "pushed": "2026-11-02T05:36:59Z",
+  "stars": 691
+ },
+ "yellow-hammer/prometheus-e1c": {
+  "arch": false,
+  "fork": false,
+  "full": "yellow-hammer/prometheus-e1c",
+  "lic": "MIT",
+  "pushed": "2026-09-29T14:16:37Z",
+  "stars": 22
+ },
+ "DitriXNew/EDT-MCP": {
+  "arch": false,
+  "fork": false,
+  "full": "DitriXNew/EDT-MCP",
+  "lic": "AGPL-3.0",
+  "pushed": "2026-11-05T17:06:30Z",
+  "stars": 328
+ },
+ "otymko/bslls-connector-for-edt": {
+  "arch": false,
+  "fork": false,
+  "full": "otymko/bslls-connector-for-edt",
+  "lic": "MIT",
+  "pushed": "2026-10-26T12:18:30Z",
+  "stars": 135
+ },
+ "moimial-dev/1c-autotest-coverage": {
+  "arch": false,
+  "fork": false,
+  "full": "moimial-dev/1c-autotest-coverage",
+  "lic": "MIT",
+  "pushed": "2026-09-22T13:33:59Z",
+  "stars": 8
+ },
+ "alonehobo/1c-partial-cf": {
+  "arch": false,
+  "fork": false,
+  "full": "alonehobo/1c-partial-cf",
+  "lic": null,
+  "pushed": "2026-10-25T11:09:13Z",
+  "stars": 26
+ },
+ "SergeSavel/kafka-1c": {
+  "arch": false,
+  "fork": false,
+  "full": "SergeSavel/kafka-1c",
+  "lic": "Apache-2.0",
+  "pushed": "2026-10-27T16:38:31Z",
+  "stars": 17
+ },
+ "e8tools/tool1cd": {
+  "arch": false,
+  "fork": false,
+  "full": "e8tools/tool1cd",
+  "lic": "GPL-3.0",
+  "pushed": "2026-10-21T11:22:26Z",
+  "stars": 155
+ },
+ "bia-technologies/edt-test-runner": {
+  "arch": false,
+  "fork": false,
+  "full": "bia-technologies/edt-test-runner",
+  "lic": "Apache-2.0",
+  "pushed": "2026-02-12T11:33:43Z",
+  "stars": 74
+ },
+ "andrejkaxz/Vanessa_for_AI": {
+  "arch": false,
+  "fork": false,
+  "full": "andrejkaxz/Vanessa_for_AI",
+  "lic": "NOASSERTION",
+  "pushed": "2026-08-27T10:44:48Z",
+  "stars": 3
+ },
+ "1c-syntax/bsl-language-server": {
+  "arch": false,
+  "fork": false,
+  "full": "1c-syntax/bsl-language-server",
+  "lic": "NOASSERTION",
+  "pushed": "2026-11-07T20:20:32Z",
+  "stars": 501
+ },
+ "firstBitMarksistskaya/onec-docker": {
+  "arch": false,
+  "fork": true,
+  "full": "firstBitMarksistskaya/onec-docker",
+  "lic": "MIT",
+  "pushed": "2026-06-19T06:27:49Z",
+  "stars": 282
+ },
+ "feenlace/mcp-1c": {
+  "arch": false,
+  "fork": false,
+  "full": "feenlace/mcp-1c",
+  "lic": "MIT",
+  "pushed": "2026-10-20T19:21:46Z",
+  "stars": 252
+ },
+ "fserg/1c-llm-requests": {
+  "arch": false,
+  "fork": false,
+  "full": "fserg/1c-llm-requests",
+  "lic": "MIT",
+  "pushed": "2026-03-24T05:19:37Z",
+  "stars": 56
+ },
+ "oscript-library/gitsync": {
+  "arch": false,
+  "fork": false,
+  "full": "oscript-library/gitsync",
+  "lic": "MPL-2.0",
+  "pushed": "2026-10-25T13:58:52Z",
+  "stars": 343
+ },
+ "bia-technologies/precommit4onec": {
+  "arch": false,
+  "fork": true,
+  "full": "bia-technologies/precommit4onec",
+  "lic": "MIT",
+  "pushed": "2025-12-29T12:27:08Z",
+  "stars": 82
+ },
+ "artbear/awesome-1c": {
+  "arch": false,
+  "fork": false,
+  "full": "artbear/awesome-1c",
+  "lic": "CC0-1.0",
+  "pushed": "2023-11-28T08:37:10Z",
+  "stars": 160
+ },
+ "Jimmo910/edt-plugin-pack": {
+  "arch": false,
+  "fork": false,
+  "full": "Jimmo910/edt-plugin-pack",
+  "lic": "NOASSERTION",
+  "pushed": "2026-11-02T14:38:55Z",
+  "stars": 25
+ },
+ "vbondarevsky/Connector": {
+  "arch": false,
+  "fork": false,
+  "full": "vbondarevsky/Connector",
+  "lic": "Apache-2.0",
+  "pushed": "2026-03-16T20:19:04Z",
+  "stars": 829
+ },
+ "KvitunAA/1c-vector-search": {
+  "arch": false,
+  "fork": false,
+  "full": "KvitunAA/1c-vector-search",
+  "lic": null,
+  "pushed": "2026-09-03T17:00:16Z",
+  "stars": 28
+ },
+ "vbondarevsky/1connector": {
+  "arch": false,
+  "fork": false,
+  "full": "vbondarevsky/1connector",
+  "lic": "Apache-2.0",
+  "pushed": "2026-11-03T12:56:30Z",
+  "stars": 69
+ },
+ "carono/php-commerceml": {
+  "arch": false,
+  "fork": false,
+  "full": "carono/php-commerceml",
+  "lic": "MIT",
+  "pushed": "2023-11-12T15:49:51Z",
+  "stars": 22
+ },
+ "ZigRinat85/PluginEDT": {
+  "arch": false,
+  "fork": false,
+  "full": "ZigRinat85/PluginEDT",
+  "lic": null,
+  "pushed": "2026-11-05T12:52:18Z",
+  "stars": 23
+ },
+ "LazarenkoA/LogViewer": {
+  "arch": false,
+  "fork": false,
+  "full": "LazarenkoA/LogViewer",
+  "lic": "MPL-2.0",
+  "pushed": "2025-02-15T12:56:37Z",
+  "stars": 50
+ },
+ "Ailirag/onec_llm_subsystem": {
+  "arch": false,
+  "fork": false,
+  "full": "Ailirag/onec_llm_subsystem",
+  "lic": "Apache-2.0",
+  "pushed": "2026-09-30T11:13:57Z",
+  "stars": 6
+ },
+ "rzateev/onec-help-mcp": {
+  "arch": false,
+  "fork": false,
+  "full": "rzateev/onec-help-mcp",
+  "lic": "MIT",
+  "pushed": "2026-02-12T19:38:59Z",
+  "stars": 22
+ },
+ "akim-kaneyev/1c-erp-diagnostics": {
+  "arch": false,
+  "fork": false,
+  "full": "akim-kaneyev/1c-erp-diagnostics",
+  "lic": "MIT",
+  "pushed": "2026-11-01T20:28:19Z",
+  "stars": 11
+ },
+ "alexiosus/KOTfor1C": {
+  "arch": false,
+  "fork": false,
+  "full": "alexiosus/KOTfor1C",
+  "lic": "MIT",
+  "pushed": "2026-11-02T11:33:17Z",
+  "stars": 47
+ },
+ "LazarenkoA/Ox": {
+  "arch": false,
+  "fork": false,
+  "full": "LazarenkoA/Ox",
+  "lic": "MIT",
+  "pushed": "2025-11-11T10:54:25Z",
+  "stars": 40
+ },
+ "msrv-tech/AI_agent": {
+  "arch": false,
+  "fork": false,
+  "full": "msrv-tech/AI_agent",
+  "lic": "MIT",
+  "pushed": "2026-09-23T04:07:31Z",
+  "stars": 97
+ },
+ "EvilBeaver/OneScript.WebSite": {
+  "arch": false,
+  "fork": true,
+  "full": "EvilBeaver/OneScript.WebSite",
+  "lic": null,
+  "pushed": "2026-10-23T08:48:09Z",
+  "stars": 10
+ },
+ "SteelMorgan/1c-agent-based-dev-framework": {
+  "arch": false,
+  "fork": false,
+  "full": "SteelMorgan/1c-agent-based-dev-framework",
+  "lic": "NOASSERTION",
+  "pushed": "2026-09-30T12:11:00Z",
+  "stars": 120
+ },
+ "otymko/phoenixbsl": {
+  "arch": false,
+  "fork": false,
+  "full": "otymko/phoenixbsl",
+  "lic": "Apache-2.0",
+  "pushed": "2024-10-23T02:12:20Z",
+  "stars": 318
+ },
+ "xDrivenDevelopment/precommit1c": {
+  "arch": false,
+  "fork": true,
+  "full": "xDrivenDevelopment/precommit1c",
+  "lic": "NOASSERTION",
+  "pushed": "2021-07-05T13:34:53Z",
+  "stars": 247
+ },
+ "Romandredan/odata1c-gate": {
+  "arch": false,
+  "fork": false,
+  "full": "Romandredan/odata1c-gate",
+  "lic": "MIT",
+  "pushed": "2026-11-03T07:41:00Z",
+  "stars": 8
+ },
+ "lo0p3r/v8std": {
+  "arch": false,
+  "fork": false,
+  "full": "lo0p3r/v8std",
+  "lic": "MIT",
+  "pushed": "2026-04-13T04:44:11Z",
+  "stars": 48
+ },
+ "1c-syntax/ssl_3_2": {
+  "arch": false,
+  "fork": false,
+  "full": "1c-syntax/ssl_3_2",
+  "lic": "CC-BY-4.0",
+  "pushed": "2026-09-24T16:37:50Z",
+  "stars": 18
+ },
+ "vanessa-opensource/vanessa-runner-jenkins": {
+  "arch": false,
+  "fork": false,
+  "full": "vanessa-opensource/vanessa-runner-jenkins",
+  "lic": "MPL-2.0",
+  "pushed": "2024-07-23T21:41:07Z",
+  "stars": 30
+ },
+ "DigiLabsru/alkir-web-rac": {
+  "arch": false,
+  "fork": false,
+  "full": "DigiLabsru/alkir-web-rac",
+  "lic": "MIT",
+  "pushed": "2025-08-03T18:56:38Z",
+  "stars": 14
+ },
+ "Segate-ekb/integration_subsystem": {
+  "arch": false,
+  "fork": false,
+  "full": "Segate-ekb/integration_subsystem",
+  "lic": "GPL-3.0",
+  "pushed": "2026-08-26T21:56:35Z",
+  "stars": 27
+ },
+ "marmyshev/edt-plugins": {
+  "arch": false,
+  "fork": false,
+  "full": "marmyshev/edt-plugins",
+  "lic": "MIT",
+  "pushed": "2024-06-24T03:05:07Z",
+  "stars": 235
+ },
+ "vlikhobabin/qa-mcp-public": {
+  "arch": false,
+  "fork": false,
+  "full": "vlikhobabin/qa-mcp-public",
+  "lic": "Apache-2.0",
+  "pushed": "2026-09-11T12:41:30Z",
+  "stars": 5
+ },
+ "Stivo182/oscript-httpbin": {
+  "arch": false,
+  "fork": false,
+  "full": "Stivo182/oscript-httpbin",
+  "lic": "MIT",
+  "pushed": "2026-10-27T22:18:06Z",
+  "stars": 19
+ },
+ "FoxyLinkIO/FoxyLink": {
+  "arch": false,
+  "fork": false,
+  "full": "FoxyLinkIO/FoxyLink",
+  "lic": "NOASSERTION",
+  "pushed": "2024-10-16T05:44:31Z",
+  "stars": 100
+ },
+ "Bayselonarrend/Melezh": {
+  "arch": true,
+  "fork": false,
+  "full": "Bayselonarrend/Melezh",
+  "lic": "MIT",
+  "pushed": "2026-09-10T08:55:12Z",
+  "stars": 33
+ },
+ "yellow-club/onec-jwt-auth": {
+  "arch": false,
+  "fork": false,
+  "full": "yellow-club/onec-jwt-auth",
+  "lic": "MIT",
+  "pushed": "2026-02-05T14:01:54Z",
+  "stars": 51
+ },
+ "hawkxtreme/mini-ai-1c": {
+  "arch": false,
+  "fork": false,
+  "full": "hawkxtreme/mini-ai-1c",
+  "lic": "NOASSERTION",
+  "pushed": "2026-08-20T06:53:54Z",
+  "stars": 255
+ },
+ "1C-Company/dt-project-checks": {
+  "arch": false,
+  "fork": false,
+  "full": "1C-Company/dt-project-checks",
+  "lic": "EPL-2.0",
+  "pushed": "2026-09-29T02:00:07Z",
+  "stars": 29
+ },
+ "hal9000cc/RequestConsole9000": {
+  "arch": false,
+  "fork": false,
+  "full": "hal9000cc/RequestConsole9000",
+  "lic": "GPL-3.0",
+  "pushed": "2022-05-27T13:21:16Z",
+  "stars": 94
+ },
+ "firstBitMarksistskaya/bit-1c-help": {
+  "arch": false,
+  "fork": false,
+  "full": "firstBitMarksistskaya/bit-1c-help",
+  "lic": "MIT",
+  "pushed": "2026-09-10T15:43:53Z",
+  "stars": 4
+ },
+ "dobromyslov/commerceml-parser": {
+  "arch": false,
+  "fork": false,
+  "full": "dobromyslov/commerceml-parser",
+  "lic": "MIT",
+  "pushed": "2021-07-07T10:56:56Z",
+  "stars": 15
+ },
+ "DigiLabsru/alkir-rahc": {
+  "arch": false,
+  "fork": false,
+  "full": "DigiLabsru/alkir-rahc",
+  "lic": "MIT",
+  "pushed": "2025-07-28T05:21:01Z",
+  "stars": 41
+ },
+ "salexdv/ras-rac-commands": {
+  "arch": false,
+  "fork": false,
+  "full": "salexdv/ras-rac-commands",
+  "lic": null,
+  "pushed": "2023-07-04T17:40:48Z",
+  "stars": 8
+ },
+ "1c-syntax/Coverage41C": {
+  "arch": false,
+  "fork": false,
+  "full": "1c-syntax/Coverage41C",
+  "lic": "LGPL-3.0",
+  "pushed": "2026-10-08T08:04:54Z",
+  "stars": 111
+ },
+ "Oxotka/git-flow-edt": {
+  "arch": false,
+  "fork": false,
+  "full": "Oxotka/git-flow-edt",
+  "lic": "MIT",
+  "pushed": "2026-10-29T05:18:13Z",
+  "stars": 28
+ },
+ "vladimir-kharin/1c_mcp": {
+  "arch": false,
+  "fork": false,
+  "full": "vladimir-kharin/1c_mcp",
+  "lic": null,
+  "pushed": "2026-11-03T20:43:23Z",
+  "stars": 571
+ },
+ "LazarenkoA/extensions-info": {
+  "arch": false,
+  "fork": false,
+  "full": "LazarenkoA/extensions-info",
+  "lic": "MIT",
+  "pushed": "2025-10-22T17:37:17Z",
+  "stars": 25
+ },
+ "itrous/bsl-analyzer": {
+  "arch": false,
+  "fork": false,
+  "full": "itrous/bsl-analyzer",
+  "lic": "MIT",
+  "pushed": "2026-11-07T17:52:21Z",
+  "stars": 116
+ },
+ "oscript-library/opm": {
+  "arch": false,
+  "fork": false,
+  "full": "oscript-library/opm",
+  "lic": "Apache-2.0",
+  "pushed": "2026-09-05T07:45:14Z",
+  "stars": 86
+ },
+ "SgonnovDmGit/lensa-query-console": {
+  "arch": false,
+  "fork": false,
+  "full": "SgonnovDmGit/lensa-query-console",
+  "lic": "NOASSERTION",
+  "pushed": "2026-11-04T20:16:05Z",
+  "stars": 17
+ }
+}
